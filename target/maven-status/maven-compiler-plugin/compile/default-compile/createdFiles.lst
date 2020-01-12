@@ -1,0 +1,9 @@
+driveme\model\User.class
+driveme\dao\rideDaoImpl.class
+driveme\model\Ride.class
+driveme\controllers\offerride.class
+driveme\service\rideServiceImpl.class
+driveme\controllers\userOperations.class
+com\hibernate\db\connection\DBConnection.class
+driveme\DriveMeApplication.class
+driveme\controllers\findride.class
